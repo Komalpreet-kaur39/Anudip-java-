@@ -1,0 +1,6 @@
+DaoImpl\ProductImpl.class
+EmUtil\EmUtil.class
+com\mycompany\hibernateproject\HibernateProject.class
+model\Product.class
+Dao\ProductDao.class
+Exception\ProductException.class
